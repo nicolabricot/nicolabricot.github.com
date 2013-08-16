@@ -1,4 +1,4 @@
 nicolabricot.github.com
 =======================
 
-Source of nicolabrict.github.io
+Source of nicolabricot.github.io
